@@ -1,2 +1,1 @@
-# assignment2basicpython
-assignment2
+python
